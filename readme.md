@@ -41,4 +41,4 @@ This project builds upon several key technologies and resources:
 - PyTorch deep learning framework.
 - Gradio library for creating ML web interfaces.
 - Pre-trained ViT models from torchvision.
-- One who helped me learn and implemet using pytorch. https://www.learnpytorch.io/., github: https://github.com/mrdbourke/pytorch-deep-learning/
+- One who helped me learn and implemet using pytorch. https://www.learnpytorch.io/, github: https://github.com/mrdbourke/pytorch-deep-learning/
